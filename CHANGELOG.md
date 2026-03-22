@@ -8,6 +8,10 @@ Docs: https://docs.openclaw.ai
 
 - Placeholder: replace with the first 2026.3.14 user-facing change.
 
+### Fixes
+
+- Agents/edit tool: show current file contents on exact-match failures and avoid false edit failures after successful writes.
+
 ## 2026.3.13
 
 ### Changes
